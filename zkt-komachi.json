@@ -1,0 +1,1718 @@
+{
+ "work": "小町集",
+ "work_id": "zkt-komachi",
+ "repo": "kumoi-no-fumigura/komachi-shu",
+ "yomi": "こまちしゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安前期（伝）",
+ "author": "小野小町（伝）",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-komachi-0001",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "惟貞のみこの歌合に",
+   "author": "",
+   "text": "秋霧は今朝はな立て佐保山の柞の紅葉よそにてん見む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0002",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓水水凍りとづらむあし鴨の夜深く聲の騷ぐなる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0004",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "花をながめて",
+   "author": "",
+   "text": "花の色は移りに見な徒に我身世にふる詠めせしまに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0005",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "ある人心かはりてみえしに",
+   "author": "",
+   "text": "∞心から浮たる舟に乘初めて一日も波に濡ぬ日ぞなき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0006",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "前渡りし人に誰ともなくてとらせたりし",
+   "author": "",
+   "text": "一空を行月の光を雲ゐよりみでや間にて世は果ぬべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0007",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "返しあしたにありしに",
+   "author": "",
+   "text": "ニ雲雲れれ思思出出ど言のはのちれる嘆は思出もなき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0008",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三みるめかる蟹の行かふ湊路に勿來の關も我は据ぬを",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0009",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "女郎花いと多く堀りて見るに",
+   "author": "",
+   "text": "ななにしおへばなを懷しみ女郎花をられに見な我が名立に",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0010",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "やよやまて山時鳥言づてむ我れ世中に住わびぬとよ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0011",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "あやしき事いひける人に",
+   "author": "",
+   "text": "結びきと云ける物を結松爭でか君にとけてみゆべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0012",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "めのとの遺き所にあるに?",
+   "author": "",
+   "text": "せよそにこそ案の白雲と思ひしに二人が中に早立に鳬",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0013",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "山里にて秋の月を",
+   "author": "",
+   "text": "人山田のあれたる宿を照しつゝ幾夜へぬらむ秋の月影",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0014",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "又",
+   "author": "",
+   "text": "秋秋月月のかなる物ぞ我心何ともなきにいねがてにする",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0015",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "人と物いふとてあけしつとめてかばかり長き夜に何事を絡夜〓び明しつるぞとあいなうとがめし人に",
+   "author": "",
+   "text": "秋夜も名のみ也見逢ふと云へば〓ぞぞももなく明ぬる物を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0016",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "かへし",
+   "author": "",
+   "text": "〓長しとも思ひぞ果ぬ昔より逢人からの秋のよなれは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0017",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "やんごとなき人の忍び給ふに",
+   "author": "",
+   "text": "〓現にはさも社あらめ夢にさへ人め包むと見が侘しさ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0018",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "人のわりなく怨むるに",
+   "author": "",
+   "text": "以のの里里の知べも有なくに恨みむとのみ人の云ふ覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0019",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "ゆめに人のみえしかば",
+   "author": "",
+   "text": "思つゝぬればや人のみえつ覽夢と知せば覺ざらとしを",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0020",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "これを人に語りければ哀なりけることかなとあるかへし",
+   "author": "",
+   "text": "轉寢に戀しき人をみてしより夢てふ物は賴み初てき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0021",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "かへし",
+   "author": "",
+   "text": "賴まじと思はむとても如何せむ夢より外に逢夜無れば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0022",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かいとせめて戀き時はうば玉の夜の衣を返してぞぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0023",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "人の心かはりたるに",
+   "author": "",
+   "text": "色みえてうつろふ物は世中の人の心の花にぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0024",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "みもなき苗のほに文をさして人のもとへやるに",
+   "author": "",
+   "text": "秋風にあふ賴こそ悲しけれ我身空しく成ぬと思へば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0025",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "人のもとに",
+   "author": "",
+   "text": "c渡つ海のみるめは誰か刈果し世の人〓とになしと云ずば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0026",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "常にくれどえ逢はぬ女のうらむる人に",
+   "author": "",
+   "text": "みみるめなき我身を浦と知ねばや枯なで蜑の足たゆく來る",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0027",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "二人人逢逢月の無夜に思ひ置て胸は尻火に心やけをり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0028",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "多路には足も体めず通へ共現に人めみし〓とはあらず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0029",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かかざま待つあまし潜かば逢事の便に波は海と成なむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0030",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我を君思心のけすのへにありせば正に逢みてましそ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0031",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "mよそにてもみずは有とも人心忘れ形見をつみて忍ば、",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0032",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "宵々の夢の魂あしたゆく有ても待たむ訪らひにこよ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0033",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "ゐでのしまといふ題を",
+   "author": "",
+   "text": "ふおきの井手みを燒よりも侘しきは都しまへの別也免",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0034",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "今はとて我身時雨に降ぬれば〓との葉さへに移ひに見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0035",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "かへし",
+   "author": "",
+   "text": "∞人を思ふ心木葉にあらば社風のまに〓〓散も粉はめ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0036",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "定まらず哀れなる身をなげきて",
+   "author": "",
+   "text": "。蛋のすむ浦漕舟の楫をなみ世をうみ渡る我ぞ悲しき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0037",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "いそのかみ〓といふ寺にまうでゝ日のくれにければあけて歸らむとてかの寺に遍昭ありときて心みにいひやる",
+   "author": "",
+   "text": "。〓岩の上に旅ねをすればいと寒し苦の衣を我に貸なむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0038",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "かし遍昭",
+   "author": "",
+   "text": "30世を背く苦の衣は唯一重貸ねばうとしいざ二人ねむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0039",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "中たえたる男の忍びてきて隠れてみけるに月のいと哀れなるをみてねむことこそいと口惜しけれとすのこに詠むれば男いむなるものをといへは",
+   "author": "",
+   "text": "。獨獨の佗しきまゝに起ゐつゝ月を哀といみぞ兼つく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0040",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "忘れやしにしとある君たちのの給へるに",
+   "author": "",
+   "text": "x0陸奥の玉造江にこぐ舟のほにこそ出ね君を戀ふれど",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0041",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "康秀が三河になりてあがた見はいでたゝじやといへる返りごとに",
+   "author": "",
+   "text": "xo佗佗れば身を萍のねを絕て誘ふ水有らばいなむとぞ思ふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0042",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "安倍のきよゆきがかくいへる",
+   "author": "",
+   "text": "to包めども袖にたまらぬ白玉は人をみぬめの泪也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0043",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "とある返し",
+   "author": "",
+   "text": "x0おろかなる淚ぞ袖に玉はなす我は堰敢ず瀧ンせなれば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0044",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "xoみるめあらば恨みむやは〓蜑問はゞ浮びて待む泡のまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0045",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。いつはとは時は分ねど秋のよぞ物思ふ事の限也ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0046",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一蜩のなく山里の夕ぐれは風よりほかにとふ人ぞなき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0047",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一百草の花の紐とく秋の野に思ひたはれむ人な各めそ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0048",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ漕ぎきぬや螢のかどまも待ずしてにくさひかける發い釣卅",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0049",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "五月五日さうぶにさして人に",
+   "author": "",
+   "text": "-萬蒲草人にねたゆと思しを我身の憂に生ふる也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0050",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "xこぬ人をまつと詠めて我宿のなどて此暮悲しかる覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0051",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "露の命はかなき物を朝夕に生きたる限逢見てしがな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0052",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一人知れぬ我が思に逢ぬ夜はみさへぬるみて思ほゆる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0053",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ん戀化ぬ暫しもねばや夢の內にみゆれば逢めみれは忘れぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0054",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "んものをこそ岩ねの松も思らめ千代ふる末も傾きに見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0055",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "c木本ののにも散らで人しれず憂き〓とのはの積る頃哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0056",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニ夏の夜の侘しき〓とは夢にだにみる程もなく明る也見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0057",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一現にもあるだる有を夢にさへ飽でも人のみえ渡る哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0058",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一〓春雨のさはにふる如音もなく人に知れでぬるヽ袖哉風",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0059",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "四のみこの失せ給へるつとめて風ふくに",
+   "author": "",
+   "text": "一今朝よりは悲しき宮の秋風や又逢坂も有じと思へば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0060",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我身にはきにける物を憂事は人の上とも思ひける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0061",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "た心にも叶はざりける世中を憂身はみじと思ひける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0062",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "に妻戀るさを鹿の音にさよふけて我片戀を明し兼つる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0063",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ヘ卯花のさける垣ねに時ならでわがことぞ鳴く鶯の聲",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0064",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の田の假庵にきぬるいな方の否とも人に云まし物を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0065",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "井手の山吹を",
+   "author": "",
+   "text": "ce色も香も懷しきかな蛙なくゐでのわたりの山吹の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0066",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一護たつ野をなつかしみ春駒の荒ても君がみえ渡る哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0067",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三難波めの釣する人に目枯けむ人も我ごと袖やぬる覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0068",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三千度とも知られざりけり泡の憂身はいさや物忘して",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0069",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "人の昔よりしりたりといふに",
+   "author": "",
+   "text": "今はとて變らぬ物を古もかく社君につれなかりしかE",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0070",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓波の面を出入る鳥は水底を覺束なくは思はざらなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0071",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "あしたづの雲居の中にまじりなばなどいひて失せたる人のあはれなる頃",
+   "author": "",
+   "text": "ねんかたの空にたなびくうき雲のうける我身は",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0072",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "つゆ草の露のいのちも又きえて思ふことのみ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0073",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "まろこ菅繁さぞまさるあら玉の行く年つきは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0074",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の日の花のにほひも夏の日の木の下かげも乳",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0075",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の夜の月のひかりも冬の夜の時雨のおとも",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0076",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "世の中に戀もわかれもうき事もつらきもしれる-",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0077",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我身こそ心にしみて袖の浦のひる時もなく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0078",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "哀れなれかくのみ常に思ひつゝいきの松ばら",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0079",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "生たるにながらの橋の長らへて湖に居たづの六",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0080",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "鳴わたりうらこぐ卅のぬれ渡るいつか浮世の",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0081",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "くにさみの我身かけつゝかけ離れいつか戀しき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0082",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "雲の上の人にあひみて此世には思ふことなき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0083",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "みとはなるべき六",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0084",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "日の照り侍りけるに雨乞の和歌詠べき實旨有て",
+   "author": "",
+   "text": "七千早振神もみまさば立騒ぎ天の戶川のひ口あけ給へ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0085",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "やり水に菊の花のうきたりしに",
+   "author": "",
+   "text": "〓人のののののの本近く流れずば泡沫花も有とみましや",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0086",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "起限ききののゝゝに夜もこむ夢ぢをさへに人は谷めじ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0087",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "枯れたる淺芽に文さしたりける迄ごとに小町が姉t",
+   "author": "",
+   "text": "0時時て枯行くをのヽ淺芽には今に思ぞ絕ず燃えけス",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0088",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "あだなに人の騷がしういひ笑ひける頃いはねける人のとひたりける返りごとにt",
+   "author": "",
+   "text": "「うき事を忍ぶる天の下にしく我濡衣はほせと乾かず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0089",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "コととすすばばだだるる風に漣の廉くてふ如我靡けとや七",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0090",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "忘草我身につまむと思ひしは人の心におふる也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0091",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我如く物思ふ心けの末に有りせば正に逢見てましを",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0092",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "みちの國へいく人にいつ計にかといひたりしに",
+   "author": "",
+   "text": "四陸奥は世を浮島も有と云を關小搖ぎの急がざらなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0093",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "定めたる〓ともなくて心ぼそき頃",
+   "author": "",
+   "text": "加須磨の浦の浦こぐ舟の杻よりと寄べなきみぞ悲しめる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0094",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "いかなりし曉にか人크",
+   "author": "",
+   "text": "tu獨寢の時は待れし鳥のねの稀にあふ夜は〓しかり免",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0095",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓流れてと賴めし〓とは行末の涙の上をいふにぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0096",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "見し人のなくなりし頃",
+   "author": "",
+   "text": "AN有るはなく無きは數そふ世中に哀孰の日まで歎かむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0097",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〇夢夢ならば又みる宵も有なましなに中々の現なりけむ忠",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0098",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ユ武藏野に生ふとし聞けば紫の其色ならの草も睦まし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0099",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三世中は飛鳥川にもならばなれ君と我とが中し絕ずば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0100",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "三武藏野の向ひの岡の草なれば根を尋ねても哀とぞ思ふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0101",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "見見し人も知られざり鳬泡の憂身はいさや物忘れして",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0102",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "世中に孰ら我身の有てなし哀とや云むあなうとや云む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0103",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "な我我社有のかとのみ辿らるれ筋べき人に忘られしより",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0104",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "女長らへば人の心もみるべきに露の命ぞ悲しかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0105",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "人々中心脈ひて舐の住かたは憂めのみ社みえ渡りけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0106",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓く〓と〓〓〓〓〓ばかすまむ空を哀とは見よ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0107",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "○の我や世を爲と鳴きわびむ人の心の花とちりなば古",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0108",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一はかなくも枕定めず明す哉夢語りせし人をまつとて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0109",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "世中の憂もつらきも〓なくにまづ知る物は泪也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0110",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓吹き結ぶ風は昔の秋ながら有しにもあらぬ袖の露哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0111",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ああしくも慰めがたき心かな妓捨山の月もみなくに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0112",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ししけけききくくれ髪をみせじとやはた隠れたるけさの様",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0113",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰をかもまつちの山の女郞花秋と契れる人ぞ有らし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0114",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "百雲の絕ず數く峯にだに住めば住ぬる物にぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0115",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓菜葉ぬ常常の山は吹く風の音にや秋を聞渡るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0116",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "他本歌十一廿",
+   "author": "",
+   "text": "ないつとても戀しからずは非ね共怪しかりロリ秋の夕暮",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0117",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓長月の有明の月の有つヽも君しもまさば待社はせめ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0118",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "「淺香山影さへみゆる山の井の淺くは人を思ふ物かは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0119",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "詠めつゝ過る月日も知のまに秋の景色に成にける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0120",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の日の浦々毎を出てみよ何業してか蛋はすぐすゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0121",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓本間より洩り來る月の影みれば心盡しの秋はきに見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0122",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "エキつつ雲雲ふきはらへ久方の月の隱るゝ道まどはなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0123",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "簑てふ事こそうたて世中を思へば別ぬほだし也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0124",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一世中は夢かうつゝか現とも夢とも知ず有てなければ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0125",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "人。 てて言言のは昔を懲るなみだなりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0126",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "山田は物の寂しき事社あれ世の憂よりは住よかりけリ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0127",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "又他本五甘北相公本也",
+   "author": "",
+   "text": "小小山山し照射の末もがなしか習はずば安くれなまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0128",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "前つヽみるべき人も知ぬまに秋の氣色に成にける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0129",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "形形こそ今は仇なれ此なくノ忘るゝ時も有まし物を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0130",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "はかなしや我が身の果よ淺綠野ペに變く置と忌へば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-komachi-0131",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "花咲てみならぬ物は渡つ海の挿娘にさせる沖つ白め",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
